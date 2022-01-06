@@ -43,11 +43,11 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "Daily ",
+              "Daily",
               style: TextStyle(color: Colors.black),
             ),
             Text(
-              "News",
+              "Muthal",
               style: TextStyle(
                 color: Colors.blueAccent,
               ),
